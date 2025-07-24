@@ -24,6 +24,7 @@ export interface Offers {
 }
 
 export interface PropertyProps {
+  amenities: string[];
   id: number;
   name: string;
   address: Address;
@@ -33,4 +34,13 @@ export interface PropertyProps {
   offers: Offers;
   image: string;
   discount: string;
+}
+export interface PillProps {
+  filters: FilterLabel[];
+  selectedValue: string;
+  onClick: (filter: FilterLabel) => void;
+}
+export interface FilterLabel {
+  label: string;
+  value: string;
 }

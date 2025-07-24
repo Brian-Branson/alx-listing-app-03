@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { SetStateAction, useEffect, useState } from 'react';
 import Image from 'next/image';
 import Button from '@/components/common/Button';
 import LoginModal from '@/components/common/LoginModal';
@@ -155,7 +155,7 @@ export default function Home() {
           <Pill
             filters={filterLabels}
             selectedValue={selectedFilter}
-            onClick={(filter) => setSelectedFilter(filter.value)}
+            onClick={(filter: { value: SetStateAction<string>; }) => setSelectedFilter(filter.value)}
           />
         </section>
 
