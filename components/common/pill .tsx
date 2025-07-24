@@ -1,10 +1,6 @@
 import React from 'react';
 import { PillProps } from '@/interfaces'; 
 
-type FilterLabel = {
-  label: string;
-  value: string;
-};
 
 
 const Pill: React.FC<PillProps> = ({ filters, selectedValue, onClick }) => {

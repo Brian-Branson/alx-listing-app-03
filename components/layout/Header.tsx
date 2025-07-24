@@ -46,7 +46,7 @@ const Header: React.FC<HeaderProps> = ({ onShowLogin, onShowSignup }) => {
         <a href="#home" className="text-sm hover:underline">Home</a>
         <a href="#properties" className="text-sm hover:underline">Properties</a>
         <a href="#about" className="text-sm hover:underline">About </a> 
-        <a href="/booking" className="text-sm hover:underline">Booking</a>
+        <a href="#booking" className="text-sm hover:underline">Booking</a>
     
         </nav>
     </header>
