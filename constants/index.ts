@@ -19,6 +19,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-1.png",
     discount: "",
+    amenities: ""
   },
   {
     id: 2,
@@ -38,6 +39,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-2.png",
     discount: "30",
+    amenities: ""
   },
   {
     id: 3,
@@ -57,6 +59,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-3.png",
     discount: "",
+    amenities: ""
   },
   {
     id: 4,
@@ -76,6 +79,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-4.png",
     discount: "15",
+    amenities: ""
   },
   {
     id: 5,
@@ -95,6 +99,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-5.png",
     discount: "20",
+    amenities: ""
   },
   {
     id: 6,
@@ -114,6 +119,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-6.png",
     discount: "",
+    amenities: ""
   },
   {
     id: 7,
@@ -133,6 +139,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-7.jpg",
     discount: "10",
+    amenities: ""
   },
   {
     id: 8,
@@ -152,6 +159,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-8.jpg",
     discount: "25",
+    amenities: ""
   },
   {
     id: 9,
@@ -171,6 +179,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-9.jpg",
     discount: "",
+    amenities: ""
   },
   {
     id: 10,
@@ -190,6 +199,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-10.jpg",
     discount: "40",
+    amenities: ""
   },
   {
     id: 11,
@@ -209,6 +219,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-1.png",
     discount: "50",
+    amenities: ""
   },
   {
     id: 12,
@@ -228,6 +239,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-11.jpg",
     discount: "",
+    amenities: ""
   },
   {
     id: 13,
@@ -247,6 +259,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-12.jpg",
     discount: "35",
+    amenities: ""
   },
   {
     id: 14,
@@ -266,6 +279,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-13.jpg",
     discount: "",
+    amenities: ""
   },
   {
     id: 15,
@@ -285,6 +299,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-15.jpg",
     discount: "20",
+    amenities: ""
   },
   {
     id: 16,
@@ -304,6 +319,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-16.jpg",
     discount: "25",
+    amenities: ""
   },
   {
     id: 17,
@@ -323,6 +339,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-17.jpg",
     discount: "15",
+    amenities: ""
   },
   {
     id: 18,
@@ -342,6 +359,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-18.jpg",
     discount: "",
+    amenities: ""
   },
   {
     id: 19,
@@ -361,6 +379,7 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-19.jpg",
     discount: "10",
+    amenities: ""
   },
   {
     id: 20,
@@ -380,5 +399,6 @@ export const PROPERTYLISTINGSAMPLE: PropertyProps[] = [
     },
     image: "/assets/rooms/img-20.jpg",
     discount: "",
+    amenities: ""
   }
 ];

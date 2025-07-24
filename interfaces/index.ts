@@ -24,7 +24,7 @@ export interface Offers {
 }
 
 export interface PropertyProps {
-  amenities: string[];
+  amenities: string;
   id: number;
   name: string;
   address: Address;
